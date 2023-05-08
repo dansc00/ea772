@@ -1,1 +1,1 @@
-# ea772
+Repositório da disciplina Circuitos L
