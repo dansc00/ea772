@@ -1,1 +1,1 @@
-Repositório da disciplina Circuitos L
+Repositório da disciplina Circuitos Lógicos
