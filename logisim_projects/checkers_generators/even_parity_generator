@@ -1,0 +1,2 @@
+returns bit P = 1 (parity bit) when the sum of all bits 1 in the input is odd
+returns bit P = 0 otherwise
