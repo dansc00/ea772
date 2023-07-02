@@ -1,0 +1,2 @@
+PARALLEL INPUT / SERIAL OUTPUT REGISTER
+When SH/LD' is 0, load parallel input. If SH/LD' equal to 1, load SERIAL_IN if SERIAL_IN equal to 1
