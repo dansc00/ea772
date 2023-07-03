@@ -1,0 +1,1 @@
+Simulate loading value from memory into register B, and into accumulator register A. When ADD = 1, sum is activated. When SUB = 1, subtraction is activated. 
